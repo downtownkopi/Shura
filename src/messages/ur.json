@@ -1,0 +1,83 @@
+{
+  "app": {
+    "name": "Shura",
+    "tagline": "ہمارے عطیات کے استعمال کے بارے میں تجویز دیں اور ووٹ کریں"
+  },
+  "nav": {
+    "vote": "ووٹ",
+    "submit": "تجویز دیں",
+    "mine": "میری تجاویز",
+    "admin": "کمیٹی",
+    "history": "تاریخ"
+  },
+  "vote": {
+    "title": "تجاویز پر ووٹ کریں",
+    "empty": "ابھی ووٹ کے لیے کوئی تجویز موجود نہیں۔ جلد دوبارہ دیکھیں۔",
+    "votes": "{count} ووٹ",
+    "votesLabel": "ووٹ",
+    "voteButton": "اس کے لیے ووٹ کریں",
+    "downvoteButton": "اس کے خلاف ووٹ کریں",
+    "voted": "آپ اس کے لیے ووٹ دے چکے ہیں",
+    "removeVote": "اپنا ووٹ ہٹائیں",
+    "postedBy": "{name} کی جانب سے بھیجی گئی",
+    "timeLeft": "{time} باقی"
+  },
+  "submit": {
+    "title": "ایک تجویز دیں",
+    "description": "آپ کی تجویز پہلے کمیٹی کے پاس جائے گی۔ منظوری کے بعد، یہ سب کے ووٹ کے لیے دکھائی جائے گی۔",
+    "nameLabel": "آپ کا نام (اختیاری)",
+    "namePlaceholder": "ضرورت پڑنے پر کمیٹی رابطہ کر سکے",
+    "titleLabel": "تجویز کا عنوان",
+    "titlePlaceholder": "مثلاً: بیت الخلاء کی بہتری",
+    "detailsLabel": "تفصیلات (اختیاری)",
+    "detailsPlaceholder": "مزید بتائیں",
+    "photoLabel": "تصویر (اختیاری)",
+    "photoHint": "دکھائیں کہ کیا ٹھیک کرنا ہے",
+    "photoRemove": "تصویر ہٹائیں",
+    "photoUploading": "اپ لوڈ ہو رہا ہے…",
+    "submitButton": "کمیٹی کو بھیجیں",
+    "success": "شکریہ۔ آپ کی تجویز کمیٹی کو بھیج دی گئی ہے۔",
+    "successDetail": "کمیٹی کو جائزہ لینے کے لیے کچھ وقت دیں۔ منظوری کے بعد، یہ ووٹنگ کے لیے تیار ہو جائے گی۔"
+  },
+  "mine": {
+    "title": "میری تجاویز",
+    "empty": "آپ نے ابھی تک کوئی تجویز نہیں دی۔",
+    "statusPending": "جائزے کے منتظر",
+    "statusApproved": "منظور شدہ — ووٹ کے لیے کھلا",
+    "statusRejected": "منظور نہیں ہوئی",
+    "edit": "ترمیم",
+    "delete": "حذف کریں",
+    "save": "محفوظ کریں",
+    "cancel": "منسوخ",
+    "confirmDelete": "کیا یہ تجویز حذف کی جائے؟",
+    "committeeComment": "کمیٹی کا نوٹ"
+  },
+  "admin": {
+    "title": "کمیٹی ان باکس",
+    "loginTitle": "کمیٹی لاگ اِن",
+    "passwordLabel": "پاس ورڈ",
+    "loginButton": "لاگ اِن",
+    "loginError": "غلط پاس ورڈ۔",
+    "empty": "جائزے کے منتظر کوئی تجویز نہیں۔",
+    "approve": "منظور کریں",
+    "reject": "مسترد کریں",
+    "submittedBy": "{name} کی جانب سے بھیجی گئی",
+    "submittedAnon": "بغیر نام کے بھیجی گئی",
+    "logout": "لاگ آؤٹ",
+    "liveIdeas": "ووٹ کے لیے کھلا",
+    "pendingIdeas": "جائزے کے منتظر",
+    "rejectCommentLabel": "تجویز دینے والے کے لیے نوٹ (اختیاری)",
+    "rejectCommentPlaceholder": "وجہ بتائیں، تاکہ انہیں وضاحت مل سکے",
+    "confirmReject": "مسترد کرنے کی تصدیق کریں",
+    "cancel": "منسوخ",
+    "deadlineLabel": "ووٹنگ کی آخری تاریخ",
+    "confirmApprove": "منظوری کی تصدیق کریں",
+    "closesOn": "{date} کو بند ہوگا"
+  },
+  "history": {
+    "title": "تاریخ",
+    "empty": "ابھی تک کوئی بند شدہ تجویز نہیں۔",
+    "finalVotes": "حتمی {count} ووٹ",
+    "closedOn": "{date} کو بند ہوا"
+  }
+}

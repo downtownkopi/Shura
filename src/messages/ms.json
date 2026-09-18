@@ -1,0 +1,84 @@
+{
+  "app": {
+    "name": "Shura",
+    "tagline": "Cadang dan undi bagaimana derma kita digunakan"
+  },
+  "nav": {
+    "vote": "Undi",
+    "submit": "Cadangkan idea",
+    "mine": "Idea saya",
+    "admin": "Jawatankuasa",
+    "history": "Sejarah"
+  },
+  "vote": {
+    "title": "Undi untuk idea",
+    "empty": "Belum ada idea untuk diundi. Sila semak semula tidak lama lagi.",
+    "votes": "{count} undi",
+    "votesLabel": "undi",
+    "voteButton": "Undi untuk ini",
+    "downvoteButton": "Undi menentang ini",
+    "voted": "Anda telah mengundi untuk ini",
+    "removeVote": "Buang undi anda",
+    "postedBy": "Dihantar oleh {name}",
+
+    "timeLeft": "{time} lagi"
+  },
+  "submit": {
+    "title": "Cadangkan idea",
+    "description": "Idea anda akan disemak oleh jawatankuasa dahulu. Jika diluluskan, ia akan dipaparkan untuk diundi oleh semua.",
+    "nameLabel": "Nama anda (pilihan)",
+    "namePlaceholder": "Supaya jawatankuasa tahu siapa untuk dihubungi, jika perlu",
+    "titleLabel": "Tajuk idea",
+    "titlePlaceholder": "cth. Naik taraf tandas",
+    "detailsLabel": "Butiran (pilihan)",
+    "detailsPlaceholder": "Ceritakan lebih lanjut",
+    "photoLabel": "Gambar (pilihan)",
+    "photoHint": "Tunjukkan apa yang perlu dibaiki",
+    "photoRemove": "Buang gambar",
+    "photoUploading": "Memuat naik…",
+    "submitButton": "Hantar kepada jawatankuasa",
+    "success": "Terima kasih. Idea anda telah dihantar kepada jawatankuasa.",
+    "successDetail": "Beri masa kepada jawatankuasa untuk menyemaknya. Setelah diluluskan, ia akan sedia untuk diundi."
+  },
+  "mine": {
+    "title": "Idea saya",
+    "empty": "Anda belum mencadangkan sebarang idea.",
+    "statusPending": "Menunggu semakan",
+    "statusApproved": "Diluluskan — terbuka untuk diundi",
+    "statusRejected": "Tidak diluluskan",
+    "edit": "Sunting",
+    "delete": "Padam",
+    "save": "Simpan",
+    "cancel": "Batal",
+    "confirmDelete": "Padam idea ini?",
+    "committeeComment": "Nota daripada jawatankuasa"
+  },
+  "admin": {
+    "title": "Peti masuk jawatankuasa",
+    "loginTitle": "Log masuk jawatankuasa",
+    "passwordLabel": "Kata laluan",
+    "loginButton": "Log masuk",
+    "loginError": "Kata laluan salah.",
+    "empty": "Tiada idea menunggu semakan.",
+    "approve": "Lulus",
+    "reject": "Tolak",
+    "submittedBy": "Dihantar oleh {name}",
+    "submittedAnon": "Dihantar tanpa nama",
+    "logout": "Log keluar",
+    "liveIdeas": "Terbuka untuk diundi",
+    "pendingIdeas": "Menunggu semakan",
+    "rejectCommentLabel": "Nota untuk pencadang (pilihan)",
+    "rejectCommentPlaceholder": "Beritahu sebabnya, supaya mereka faham",
+    "confirmReject": "Sahkan tolak",
+    "cancel": "Batal",
+    "deadlineLabel": "Tarikh akhir undian",
+    "confirmApprove": "Sahkan lulus",
+    "closesOn": "Ditutup {date}"
+  },
+  "history": {
+    "title": "Sejarah",
+    "empty": "Tiada idea yang ditutup lagi.",
+    "finalVotes": "{count} undi akhir",
+    "closedOn": "Ditutup pada {date}"
+  }
+}

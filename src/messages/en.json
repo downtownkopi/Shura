@@ -1,0 +1,83 @@
+{
+  "app": {
+    "name": "Shura",
+    "tagline": "Suggest and vote on how our donations are used"
+  },
+  "nav": {
+    "vote": "Vote",
+    "submit": "Suggest an idea",
+    "mine": "My ideas",
+    "admin": "Committee",
+    "history": "History"
+  },
+  "vote": {
+    "title": "Vote on ideas",
+    "empty": "No ideas open for voting yet. Check back soon.",
+    "votes": "{count} votes",
+    "votesLabel": "votes",
+    "voteButton": "Vote for this",
+    "downvoteButton": "Vote against this",
+    "voted": "You voted for this",
+    "removeVote": "Remove your vote",
+    "postedBy": "Submitted by {name}",
+    "timeLeft": "{time} left"
+  },
+  "submit": {
+    "title": "Suggest an idea",
+    "description": "Your idea goes to the committee first. If approved, it will appear for everyone to vote on.",
+    "nameLabel": "Your name (optional)",
+    "namePlaceholder": "So the committee knows who to ask, if needed",
+    "titleLabel": "Idea title",
+    "titlePlaceholder": "e.g. Upgrade the toilets",
+    "detailsLabel": "Details (optional)",
+    "detailsPlaceholder": "Tell us more",
+    "photoLabel": "Photo (optional)",
+    "photoHint": "Show what needs fixing",
+    "photoRemove": "Remove photo",
+    "photoUploading": "Uploading…",
+    "submitButton": "Send to committee",
+    "success": "Thank you. Your idea has been sent to the committee.",
+    "successDetail": "Give the committee some time to review it. Once approved, it will be ready for live voting."
+  },
+  "mine": {
+    "title": "My ideas",
+    "empty": "You haven't suggested any ideas yet.",
+    "statusPending": "Pending review",
+    "statusApproved": "Approved — open for voting",
+    "statusRejected": "Not approved",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirmDelete": "Delete this idea?",
+    "committeeComment": "Note from the committee"
+  },
+  "admin": {
+    "title": "Committee inbox",
+    "loginTitle": "Committee login",
+    "passwordLabel": "Password",
+    "loginButton": "Log in",
+    "loginError": "Wrong password.",
+    "empty": "No ideas waiting for review.",
+    "approve": "Approve",
+    "reject": "Reject",
+    "submittedBy": "Submitted by {name}",
+    "submittedAnon": "Submitted anonymously",
+    "logout": "Log out",
+    "liveIdeas": "Live for voting",
+    "pendingIdeas": "Waiting for review",
+    "rejectCommentLabel": "Note for the submitter (optional)",
+    "rejectCommentPlaceholder": "Let them know why, so they have closure",
+    "confirmReject": "Confirm reject",
+    "cancel": "Cancel",
+    "deadlineLabel": "Voting deadline",
+    "confirmApprove": "Confirm approve",
+    "closesOn": "Closes {date}"
+  },
+  "history": {
+    "title": "History",
+    "empty": "No closed ideas yet.",
+    "finalVotes": "{count} final votes",
+    "closedOn": "Closed on {date}"
+  }
+}
